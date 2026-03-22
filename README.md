@@ -34,7 +34,7 @@ spotify-clone/
 │── index.html             # Main HTML file
 │── style.css              # Styling and layout
 │── script.js              # Core functionality
-│── assets/                # Images, icons, audio files
+│── Images/                # Images, icons
 │── README.md
 ```
 
