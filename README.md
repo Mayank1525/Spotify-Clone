@@ -92,7 +92,7 @@ Double-click `index.html`
 
 ---
 
-## 📸 Screenshots *(Optional)*
+## 📸 Screenshot
 
 <img width="1897" height="872" alt="image" src="https://github.com/user-attachments/assets/190d60a8-764e-4fdd-aeb1-d25a04f30bbb" />
 
